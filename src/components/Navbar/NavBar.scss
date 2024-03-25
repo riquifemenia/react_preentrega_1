@@ -4,10 +4,18 @@
     background-color: lightgrey !important;
     height: 8rem;
     font-size: $fuente-grande;
-    padding: 2rem;
+    padding: 2rem !important;
 }
 
 .navbar-brand {
-    font-size: $fuente-grande;
+    font-size: $fuente-grande !important;
     padding-right: 2rem;
+}
+
+.menu {
+    margin-right: auto
+}
+
+.cart-widget {
+    margin-left: auto;
 }
